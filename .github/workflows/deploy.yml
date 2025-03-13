@@ -22,6 +22,7 @@ jobs:
       - name: Build Slides with Marp
         run: |
           mkdir -p dist
+          cp logo.svg dist
           marp slides.md --html --output dist/index.html
 
       - name: Deploy to GitHub Pages
