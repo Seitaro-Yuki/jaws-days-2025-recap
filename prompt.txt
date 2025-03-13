@@ -8,3 +8,8 @@
 default テーマをimportしてください。
 表紙以外のsection の place-content は start にしたいです。
 表紙のsection の place-content は center にしたいです。
+
+
+
+これはプレゼンテーションツールのMarpのCSSなのですが section.lead のときに中央下のほうに invertd-logo.svg を配置するように修正してください
+_paginate: false で消えちゃうことがわかりました。他の方法はありますか？

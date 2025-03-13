@@ -13,6 +13,11 @@ section.lead {
   background-color: #333399;
   color: #ffffff;
   place-content: center;
+  /* 以下を追加して背景画像として invertd-logo.svg を下中央に配置 */
+  background-image: url("inverted-logo.svg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 12em 6em;
 }
 
 /* 各スライドのタイトルとして、最初の h1 要素を上部固定し下線を付与 */
