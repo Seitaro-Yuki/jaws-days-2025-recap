@@ -129,7 +129,7 @@ _class: small-title2
 # AWSアカウントのセキュリティ自動化、どこまで進める？
 
 - セッション: https://jawsdays2025.jaws-ug.jp/sessions/C-4
-- スライド: https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025
+- スライド: https://speakerdeck.com/yuobayashi/awsakauntonosekiyuriteizi-dong-hua-dokomadejin-meru-zui-shi-nashe-ji-toshi-jian-pointo
 
 ---
 
