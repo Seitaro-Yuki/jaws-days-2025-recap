@@ -40,6 +40,15 @@ _paginate: false
 
 ---
 
+# ギャラリー
+
+<img src="entrance.jpg" height="315" />
+<img src="bento.jpg" height="315" />
+<img src="party.jpg" height="315" />
+<img src="dwango.jpg" height="315" />
+
+---
+
 # IAMのマニアックな話2025
 
 - セッション: https://jawsdays2025.jaws-ug.jp/sessions/A-1
